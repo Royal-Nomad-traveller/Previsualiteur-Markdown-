@@ -46,7 +46,7 @@ code .
 
 Cela ouvrira le projet dans Visual Studio Code. Vous pouvez maintenant modifier les fichiers sources et voir les résultats en temps réel dans votre navigateur.
 
-### ✨ Fonctionnalités
+## ✨ Fonctionnalités
 
 - Éditeur de texte Markdown
 
@@ -56,16 +56,16 @@ Cela ouvrira le projet dans Visual Studio Code. Vous pouvez maintenant modifier 
 
 - Interface simple et épurée
 
-### 🛠️ Technologies utilisées
+## 🛠️ Technologies utilisées
 
 - [React](https://react.dev/)
 - [Vite](https://vite.dev/)
 - [Marked](https://github.com/sibiraj-s/marked-react)
 
-### 📄 Licence
+## 📄 Licence
 
 Ce projet est développé à des fins d'apprentissage. Libre à vous de le modifier et de l'améliorer !
 
-### 📬 Contact
+## 📬 Contact
 
 Générer par Rinatt — basé sur la formation Believemy.
